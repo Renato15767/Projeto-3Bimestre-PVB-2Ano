@@ -35,7 +35,7 @@ de 3% da respectiva parcela.
 g) Para efetuar o pagamento basta selecionar o botão de confirmação
 informar a data simulando o dia do pagamento.
 
-h) Nenhuma parcela poderá ser paga fora da sua ordem de vencimento.
+h) Nenhuma parcela poderá ser paga fora da sua ordem de vencimento.<br/>
 Exemplo: 1 – 15/09/2020, 2 – 15/10/2020 (Não poderá pagar a parcela 2
 sem que haja o pagamento da 1).
 
