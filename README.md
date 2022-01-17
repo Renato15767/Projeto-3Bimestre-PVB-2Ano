@@ -2,12 +2,12 @@
 Projeto técnico feito na linguagem C# no Windows Form.<br/>
 Disciplina: Programação Visual Básica<br/>
 
-Criar um programa que ao realizar uma compra em uma loja determinar o valor
+**Criar um programa que ao realizar uma compra em uma loja determinar o valor
 da compra e o número de parcelas, o programa deverá mostrar em uma caixa
-de texto multilinha com valores com suas respectivas datas de vencimento.
+de texto multilinha com valores com suas respectivas datas de vencimento.**
 <br/>
 
-### Requisitos que devem ser obedecidos.
+### Requisitos que devem ser obedecidos:
 <br/>
 
 a) As datas devem ser calculadas em dias úteis, ou seja, não devem ser
