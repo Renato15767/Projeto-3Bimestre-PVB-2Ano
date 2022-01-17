@@ -1,6 +1,6 @@
 # Projeto-3Bimestre-PVB-2Ano
 Projeto técnico feito na linguagem C# no Windows Form.<br/>
-Disciplina: Programação Visual Básica<br/>
+Disciplina: Programação Visual Básica.<br/>
 
 **Criar um programa que ao realizar uma compra em uma loja determinar o valor
 da compra e o número de parcelas, o programa deverá mostrar em uma caixa
